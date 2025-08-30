@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="id" version="3.0" prefix="rendition: http://www.idpf.org/vocab/rendition/#">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <meta property="dcterms:modified">2025-08-30T21:07:18Z</meta>
+    <meta name="generator" content="Ebook-lib 0.19.0"/>
+    <dc:identifier id="id">20250830210718</dc:identifier>
+    <dc:title>ऋतु-विचार</dc:title>
+    <dc:language>ne</dc:language>
+    <dc:creator id="creator">लेखनाथ पौड्याल</dc:creator>
+    <dc:date>2025-08-30T21:07:18Z</dc:date>
+    <dc:publisher>Sahityaras</dc:publisher>
+    <source_publisher>साझा प्रकाशन</source_publisher>
+    <source_edition>पन्ध्रौँ</source_edition>
+    <source_year>२०६५</source_year>
+    <source_isbn>978-99933-2-710-3</source_isbn>
+    <book_about>यो काव्य शुरूमा १९७३ मा र विकसित रूप लिएर १९९१ मा प्रकाशित भएको हो। संस्कृतमा कालिदासको ऋतुसंहार पढेर लेखनाथ पौड्याल प्रेरित भएको अनुभव यस कृतिले देखाउछ। यस पुस्तकमा छ ऋतुको अत्यन्त प्रभावकारी रूपले वर्णन गरिएकोछ। अनुष्टुप् छन्दमा अनेक समसामयिक उपमा, उत्प्रेक्षा, यमक र अनुप्रास अलङ्कार सजाउँदै रचिएको यो काव्य प्रकृतिबाटै निस्केको हो कि भन्ने भान पर्छ।...&#13;
+ऋतुविचार खण्डकाव्यले मानवलाई मनोवैज्ञानिक तहमा प्रकृतिका नजिक ल्याउने प्रयास गरेको छ अनि ऋतुहरूमा हुँदै गरेको अस्वाभाविक परिवर्तनमा सचेत हुने र एकबद्ध हुने प्रेणात्मक कार्य गरेको छ। ऋतुविचारले प्रकृतिको हरियो विचारलाई खोज्ने प्रयास गरेको छ। यस खण्डकाव्यमा नारी अनि प्रकृतिको निकटस्थ सम्बन्धमाथि पनि निरीक्षण गरिएको छ। नारीवाद नारी उन्मुक्तिको आवाज लिएर अघि बढिरहेको छ भने परिस्थितिक नारीवाद (इकोफेमिनिज्म्) -ले नारी अनि प्रकृतिको भावनात्मक र निकटस्थ सम्बन्ध रहेको तथ्यलाई उद्घाटन गरेको छ। लेखनाथको ऋतुविचारमा नारीलाई प्रकृतिका निकटमा राखिएको छ। प्रकृति अनि नारीलाई एक-अर्काका पर्यायका रूपमा हेरिएको छ।...&#13;
+परिवेश-विमर्शमै मुख्य रूपले केन्द्रित रहेको ऋतुविचार खण्डकाव्यले वस्तुतः परिस्थिति वैज्ञानिक अध्ययनको अपेक्षा राख्तछ। मानिसको आफ्नो जीवनप्रतिको जुनमोह छ,आफ्नो अस्तित्व प्रति जुन आग्रह छ त्यसलाई सदैव अखण्ड र अक्षुण्ण राख्ने हो भने प्रकृतिको संरक्षण,प्रकृति प्रेम र पर्यावरण प्रतिको जागरुकता अत्यन्तै महत्त्वपूर्ण विषय हो। स्वच्छ प्रकृति र परिवेशमा नै उत्तम जीवन यापन गर्न सकिन्छ। लेखनाथीय ऋतुविचारमा जिजीविषाका पाटाहरूको उद्घाटन छ। यस खण्डकाव्यमा पृथ्वीमा प्रकृतिको महत्त्वको उद्घाटन सँगसँगै कविको परिवेश दर्शन(इकोसफी) पनि रूपायित हुन आएकोछ।&#13;
+–चेतनारायण लामिछाने</book_about>
+    <book_genre>खण्डकाव्य, काव्य</book_genre>
+    <book_slug>ritu-bichar</book_slug>
+    <meta name="cover" content="cover-img"></meta>
+  </metadata>
+  <manifest>
+    <item href="../styles/global.css" id="static_0" media-type="text/css"/>
+    <item href="images/cover.jpg" id="cover-img" media-type="image/jpeg" properties="cover-image"/>
+    <item href="cover.xhtml" id="cover" media-type="application/xhtml+xml"/>
+    <item href="text/coverpage.xhtml" id="chapter_0" media-type="application/xhtml+xml"/>
+    <item href="fonts/BhotoSerifDevanagari-VF.ttf" id="static_1" media-type="application/font-sfnt"/>
+    <item href="text/titlepage.xhtml" id="chapter_1" media-type="application/xhtml+xml"/>
+    <item href="images/saras_logo.png" id="static_2" media-type="image/png"/>
+    <item href="text/copyrightpage.xhtml" id="chapter_2" media-type="application/xhtml+xml"/>
+    <item href="text/tocpage.xhtml" id="chapter_3" media-type="application/xhtml+xml"/>
+    <item href="text/bhumika.xhtml" id="chapter_4" media-type="application/xhtml+xml"/>
+    <item href="text/basanta-bichar.xhtml" id="chapter_5" media-type="application/xhtml+xml"/>
+    <item href="text/grishma-bichar.xhtml" id="chapter_6" media-type="application/xhtml+xml"/>
+    <item href="text/barsha-bichar.xhtml" id="chapter_7" media-type="application/xhtml+xml"/>
+    <item href="text/sharad-bichar.xhtml" id="chapter_8" media-type="application/xhtml+xml"/>
+    <item href="text/hemanta-bichar.xhtml" id="chapter_9" media-type="application/xhtml+xml"/>
+    <item href="text/shishira-bichar.xhtml" id="chapter_10" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="nav.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="chapter_0"/>
+    <itemref idref="chapter_1"/>
+    <itemref idref="chapter_2"/>
+    <itemref idref="chapter_3"/>
+    <itemref idref="chapter_4"/>
+    <itemref idref="chapter_5"/>
+    <itemref idref="chapter_6"/>
+    <itemref idref="chapter_7"/>
+    <itemref idref="chapter_8"/>
+    <itemref idref="chapter_9"/>
+    <itemref idref="chapter_10"/>
+  </spine>
+</package>
